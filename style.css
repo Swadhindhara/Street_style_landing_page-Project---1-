@@ -1,0 +1,123 @@
+body{
+  overflow: hidden;
+}
+.navbar-container{
+  display: flex;
+  margin-left: 70px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.nav-element{
+  margin: auto;
+}
+.list  {
+  font-family: Orbitron;
+  font-weight: 500;
+  font-size: 25px;
+  display: flex;
+  list-style-type: none;
+  gap: 40px;
+}
+.button-group{
+  width: 20%;
+  margin-top: 25px;
+}
+.button-group{
+  /* margin-top: 50px; */
+  /* margin-left: 50px; */
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+}
+.list-item:hover{
+  font-weight: 900;
+  /* border-bottom: 3px solid #000000; */
+  text-decoration: underline;
+}
+.nav-button{
+padding: 0px 45px;
+border: 2px solid black;
+border-radius: 10px;
+font-family: Poppins;
+background-color: transparent;
+font-size: 23px;
+margin-top: -3px;
+color:#999797;
+}
+.model img{
+  position: absolute;
+  margin-top: 8%;
+  margin-left: 70px;
+  width: 25%;
+  top:50px
+}
+.square img{
+  width: 25%;
+  margin-left: 135px;
+  margin-top: 7%;
+}
+.hero-container-right{
+  width: 60%;
+  position: absolute;
+  margin-left: 33%;
+  top: 28%;
+  text-align: center;
+}
+.globe img{
+  position: absolute;
+  top: 140px;
+  margin-left: 295px;
+  width: 60px;
+}
+.star img{
+  position: absolute;
+  top: 180px;
+  margin-left: 780px;
+  width: 55px;
+}
+.hero-heading{
+  text-align: center;
+  font-family: Orbitron;
+  font-size: 400%;
+}
+.hero-description{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  font-family: Poppins;
+  color: #716f6f;
+  font-size: 15px;
+}
+.button-email{
+margin-top: 70px;
+margin-bottom: 55px;
+border-radius: 5px;
+font-family: Orbitron;
+background-color: transparent;
+font-size: 20px;
+padding: 0px 25px;
+}
+.button-join{
+  font-family: Orbitron;
+  padding: 0px 5px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: #000000;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.contact-heading{
+  font-family: poppins;
+  font-weight: 500;
+  color: #716f6f;
+  text-align: center;
+}
+.icons span img{
+  width: 40px;
+  margin-right: 20px;
+}
+.star1 img{
+  position: absolute;
+  width: 50px;
+  left: 100px;
+}

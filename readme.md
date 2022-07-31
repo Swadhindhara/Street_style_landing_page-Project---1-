@@ -2,7 +2,7 @@
 
 ## Created by `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link](https://liveclass-project-1.netlify.app/)
+> ### **Live deployed website link** --> [Netlify link](https://street-style-project-1.netlify.app/)
 
 <br>
 <span>
